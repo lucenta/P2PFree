@@ -1,7 +1,7 @@
 P2P Free
 ===================
 
-A P2P Based file synchronization program written in python3. The program uses a centralized server to facilitate file transfers. 
+A P2P Based file synchronization program written in Python 3. The program uses a centralized server to facilitate file transfers. 
 
 Run the server on the specified ip and port number:
 ```
